@@ -59,3 +59,6 @@ Outside graphics, I've built embedded firmware, real-time backends, and optimiza
 **Email:** Jesus.R.Gonzalez107@gmail.com
 **LinkedIn:** [linkedin.com/in/jesusg107](https://linkedin.com/in/jesusg107)
 **Portfolio:** [my-portfolio-sigma-tan-63.vercel.app](https://my-portfolio-sigma-tan-63.vercel.app/)
+
+## Codeberg
+For my 100% artisinal projects visit me on [codeberg.org/jesusthecreator](https://codeberg.org/jesusthecreator)
